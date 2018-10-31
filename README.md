@@ -1,8 +1,11 @@
 # Facial-Recognition
 
 Dependencies:
+
 NumPy
+
 OpenCV
+
 Pillow
 
 Currently works by manually inputting a user ID, which can be changed by reading an id from registration forms.
